@@ -41,4 +41,5 @@ Abre el archivo index.html en tu navegador.
 ¡Comienza a jugar!
 
 Captura de Pantalla 🖼️
+![Captura del juego](JuegoLaberinto.png)
 Captura del Juego
