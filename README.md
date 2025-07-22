@@ -1,6 +1,6 @@
 # Juedo-de-Laberinto
 <h2 align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px;">
-  <img src="juegoLaberinto.jpg" alt="Logo" height="90" />
+  <img src="JuegoLaberinto.png" alt="Logo" height="100%" />
  
 </h2>
 Juego
