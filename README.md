@@ -1,4 +1,8 @@
 # Juedo-de-Laberinto
+<h2 align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px;">
+  <img src="juegoLaberinto.jpg" alt="Logo" height="90" />
+ 
+</h2>
 Juego
 Laberinto de Código 🎮
 ¡Bienvenido al Laberinto de Código! Un juego interactivo donde pondrás a prueba tus habilidades de programación para guiar a un personaje a través de un laberinto hasta la meta. Usa funciones simples para moverte y demuestra que eres un maestro del código.
